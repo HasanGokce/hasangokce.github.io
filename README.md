@@ -4,6 +4,10 @@
 
 Link: www.fitizmir.com
 
+![image](https://user-images.githubusercontent.com/25805267/104128753-60cb8c00-537a-11eb-95f6-58dbe76433bc.png)
+
+Link: http://radyo.boun.edu.tr
+
 ![image](https://user-images.githubusercontent.com/25805267/102321262-770a4600-3f8e-11eb-946c-8835a2f6050b.png)
 
 Link: www.ledcraft.com.tr
